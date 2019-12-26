@@ -1,3 +1,3 @@
 # syncjoy
 Joy run javascript async function in sync.
-# hello
+# hello 嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻
